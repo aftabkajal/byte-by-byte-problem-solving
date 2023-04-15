@@ -33,12 +33,12 @@ namespace FizzBuzz.ProblemSolve
 {
     public class TwoPowerOfTwo
     {
-        static void Main()
-        {
-            Console.WriteLine(PowersofTwo(16) ==1 ? "true": "false"); // true
-            Console.WriteLine(PowersofTwo(22) == 1 ? "true" : "false"); // false
+        //static void Main()
+        //{
+        //    Console.WriteLine(PowersofTwo(16) ==1 ? "true": "false"); // true
+        //    Console.WriteLine(PowersofTwo(22) == 1 ? "true" : "false"); // false
 
-        }
+        //}
 
         public static bool PowersofTwo(int num)
         {
